@@ -1,0 +1,9 @@
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\DtoModels.deps.json
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\DtoModels.dll
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.csprojAssemblyReference.cache
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.csproj.CoreCompileInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfoInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfo.cs
+C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.csproj.CopyComplete
