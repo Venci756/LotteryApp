@@ -10,8 +10,12 @@
       "BusinessLayer/1.0.0": {
         "dependencies": {
           "DataLayer": "1.0.0",
+          "DtoModels": "1.0.0",
+          "Mappers": "1.0.0",
           "NETStandard.Library": "2.0.3",
-          "ViewModels": "1.0.0"
+          "ViewModels": "1.0.0",
+          "Microsoft.IdentityModel.Tokens": "5.3.0.0",
+          "System.IdentityModel.Tokens.Jwt": "5.3.0.0"
         },
         "runtime": {
           "BusinessLayer.dll": {}
@@ -593,26 +597,51 @@
       },
       "DataLayer/1.0.0": {
         "dependencies": {
-          "DomainModels": "1.0.0"
+          "DtoModels": "1.0.0"
         },
         "runtime": {
           "DataLayer.dll": {}
         }
       },
-      "DomainModels/1.0.0": {
+      "DtoModels/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "runtime": {
-          "DomainModels.dll": {}
+          "DtoModels.dll": {}
+        }
+      },
+      "Mappers/1.0.0": {
+        "dependencies": {
+          "DtoModels": "1.0.0",
+          "ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "Mappers.dll": {}
         }
       },
       "ViewModels/1.0.0": {
         "dependencies": {
-          "DomainModels": "1.0.0"
+          "DtoModels": "1.0.0"
         },
         "runtime": {
           "ViewModels.dll": {}
+        }
+      },
+      "Microsoft.IdentityModel.Tokens/5.3.0.0": {
+        "runtime": {
+          "Microsoft.IdentityModel.Tokens.dll": {
+            "assemblyVersion": "5.3.0.0",
+            "fileVersion": "5.3.0.51005"
+          }
+        }
+      },
+      "System.IdentityModel.Tokens.Jwt/5.3.0.0": {
+        "runtime": {
+          "System.IdentityModel.Tokens.Jwt.dll": {
+            "assemblyVersion": "5.3.0.0",
+            "fileVersion": "5.3.0.51005"
+          }
         }
       }
     }
@@ -1034,13 +1063,28 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DomainModels/1.0.0": {
+    "DtoModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mappers/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "ViewModels/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.IdentityModel.Tokens/5.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IdentityModel.Tokens.Jwt/5.3.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

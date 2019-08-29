@@ -12,6 +12,7 @@ namespace LotteryApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class AdminController : ControllerBase
     {
         private readonly ICreateRoundService _roundService;

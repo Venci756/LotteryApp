@@ -35,5 +35,10 @@ namespace LotteryApp.Controllers
         {
             return Ok( _userService.GetAllUsers().ToList());
         }
+
+        public IActionResult Authenticate([FromBody] LoginViewModel model)
+        {
+           return Ok(_userService.Authenticate(model));
+        }
     }
 }

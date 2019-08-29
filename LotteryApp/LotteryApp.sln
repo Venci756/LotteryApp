@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotteryApp", "LotteryApp\LotteryApp.csproj", "{CE6644D3-F54D-4982-847C-433F143BE0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LotteryApp", "LotteryApp\LotteryApp.csproj", "{CE6644D3-F54D-4982-847C-433F143BE0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModels", "DtoModels\DomainModels.csproj", "{9DFDE743-5BF8-4B0A-A77C-138E7BF5F0B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DtoModels", "DtoModels\DtoModels.csproj", "{9DFDE743-5BF8-4B0A-A77C-138E7BF5F0B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{114C4981-0A61-477C-A69A-0EF9F1003721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{114C4981-0A61-477C-A69A-0EF9F1003721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{4DFBD380-B452-4B77-85C1-5780236B3436}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "ViewModels\ViewModels.csproj", "{4DFBD380-B452-4B77-85C1-5780236B3436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B2FBF350-C917-4E8A-B412-1519B17DBF6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B2FBF350-C917-4E8A-B412-1519B17DBF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mappers", "Mappers\Mappers.csproj", "{30B4B343-618E-4D9A-A42D-B0A16A03E71D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B2FBF350-C917-4E8A-B412-1519B17DBF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2FBF350-C917-4E8A-B412-1519B17DBF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FBF350-C917-4E8A-B412-1519B17DBF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B4B343-618E-4D9A-A42D-B0A16A03E71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B4B343-618E-4D9A-A42D-B0A16A03E71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B4B343-618E-4D9A-A42D-B0A16A03E71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B4B343-618E-4D9A-A42D-B0A16A03E71D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

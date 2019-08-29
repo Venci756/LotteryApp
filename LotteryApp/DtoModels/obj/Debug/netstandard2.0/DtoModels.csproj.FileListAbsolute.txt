@@ -7,3 +7,11 @@ C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstan
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfoInputs.cache
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfo.cs
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.csproj.CopyComplete
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\DtoModels.deps.json
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\DtoModels.dll
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\bin\Debug\netstandard2.0\DtoModels.pdb
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.csproj.CoreCompileInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfoInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.AssemblyInfo.cs
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.dll
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DtoModels\obj\Debug\netstandard2.0\DtoModels.pdb

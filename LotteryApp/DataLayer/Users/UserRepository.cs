@@ -30,12 +30,12 @@ namespace DataLayer.Users
 
         public IEnumerable<User> GetAll()
         {
-            return _dbContext.Users;
+            return _dbContext.Users.ToList();
         }
 
         public User GetById(int id)
         {
-            throw new NotImplementedException();
+            return _dbContext.Users.SingleOrDefault(x => x.Id == id);
         }
 
         public User GetUserById(int id)

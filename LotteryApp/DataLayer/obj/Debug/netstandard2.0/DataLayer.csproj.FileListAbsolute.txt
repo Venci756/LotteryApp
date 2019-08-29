@@ -10,3 +10,15 @@ C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DataLayer\obj\Debug\netstan
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
 C:\Users\Venci\Desktop\MyProjects\LotoApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\bin\Debug\netstandard2.0\DtoModels.dll
+C:\Users\Venci\Desktop\MyProjects\LotteryApp\LotteryApp\DataLayer\bin\Debug\netstandard2.0\DtoModels.pdb

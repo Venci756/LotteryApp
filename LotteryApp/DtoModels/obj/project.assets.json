@@ -3077,11 +3077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotoApp\\LotteryApp\\DtoModels\\DomainModels.csproj",
-      "projectName": "DomainModels",
-      "projectPath": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotoApp\\LotteryApp\\DtoModels\\DomainModels.csproj",
+      "projectUniqueName": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotteryApp\\LotteryApp\\DtoModels\\DtoModels.csproj",
+      "projectName": "DtoModels",
+      "projectPath": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotteryApp\\LotteryApp\\DtoModels\\DtoModels.csproj",
       "packagesPath": "C:\\Users\\Venci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotoApp\\LotteryApp\\DtoModels\\obj\\",
+      "outputPath": "C:\\Users\\Venci\\Desktop\\MyProjects\\LotteryApp\\LotteryApp\\DtoModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

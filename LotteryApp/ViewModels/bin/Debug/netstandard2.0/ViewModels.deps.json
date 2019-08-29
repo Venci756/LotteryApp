@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "ViewModels/1.0.0": {
         "dependencies": {
-          "DomainModels": "1.0.0",
+          "DtoModels": "1.0.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -590,12 +590,12 @@
           "System.Runtime": "4.1.0"
         }
       },
-      "DomainModels/1.0.0": {
+      "DtoModels/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
         },
         "runtime": {
-          "DomainModels.dll": {}
+          "DtoModels.dll": {}
         }
       }
     }
@@ -1012,7 +1012,7 @@
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
-    "DomainModels/1.0.0": {
+    "DtoModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

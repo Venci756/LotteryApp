@@ -9,5 +9,6 @@ namespace BusinessLayer
     {
         void Register(RegisterUserViewModel model);
         IEnumerable<UserViewModel> GetAllUsers();
+        UserViewModel Authenticate(LoginViewModel model);
     }
 }
