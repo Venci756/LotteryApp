@@ -45,7 +45,7 @@ namespace LotteryApp
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "ToDo List", Version = "v1" });
+                c.SwaggerDoc("v1", new Info { Title = "Lottery App", Version = "v1" });
                 c.AddSecurityDefinition("oauth2", new ApiKeyScheme()
                 {
                     Description = "This is authorization using JWT Token in format: Bearer <token>",
